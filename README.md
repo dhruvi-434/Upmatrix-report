@@ -1,6 +1,7 @@
 # Upmatrix-report
 Performed testing on Upmatrix website and created automated tests:
 
+{
 Package multimodules;    
 import org.openqa.selenium.By;       
 import org.openqa.selenium.JavascriptExecutor;      
@@ -343,3 +344,4 @@ public class OrganizationModule {
 	}
 }
 Organization
+}
