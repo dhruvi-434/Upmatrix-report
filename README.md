@@ -1,5 +1,5 @@
 # Upmatrix-report
-Performed testing on Uomatrix website and created automated tests:
+Performed testing on Upmatrix website and created automated tests:
 
 Package multimodules;
 import org.openqa.selenium.By;
